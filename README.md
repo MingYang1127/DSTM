@@ -10,7 +10,7 @@ designed to fuse the dependency syntax information into the pretraining model.
 
 This implementation is adapted based on [huggingface transformers](https://github.com/huggingface/transformers).
 <div  align="center">  
-<img src="./DSPM.png" width = "700.4" height = "294.4" alt="Tagging Strategy" align=center />
+<img src="./DSPM.png" width = "600.4" height = "294.4" alt="Tagging Strategy" align=center />
 </div>  
 
 
