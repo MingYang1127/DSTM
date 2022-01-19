@@ -16,7 +16,7 @@ This implementation is adapted based on [huggingface transformers](https://githu
 
 ## Requirements
  * python3.7.0, transformers==2.7.0  
- * This implementation is tested on a single 10G 3080 GPU with CUDA version=11.0.
+ * This implementation is tested on a single 10G NVIDIA GeForce RTX 3080 GPU with CUDA version=11.0.
 
 
 ## Prepare Model and Dataset
