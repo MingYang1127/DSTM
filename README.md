@@ -1,9 +1,9 @@
-# DSPM
+# DSTM
 ## Introduction
-This is the pytorch implementation of the **DSPM** model.
-**We propose a DSPM model (a pretraining model guided by dependency syntax information in alternative ways)** for document-level relation extraction tasks.
+This is the pytorch implementation of the **DSTM** model.
+**We propose a DSTM model (a Transformer model guided by dependency syntax information in alternative ways)** for document-level relation extraction tasks.
 This model effectively integrates dependency syntax information into
-BERT to improve its ability to process long texts by enhancing attention between two tokens with dependencies
+Transformer to improve its ability to process long texts by enhancing attention between two tokens with dependencies
 in a sentence. 
 Specially, a dependency syntax tree is built at the document level, and three different alternative (Direct Transformation, Biaffine Transformation, Decomposed Linear Transformation) fusion methods are
 designed to fuse the dependency syntax information into the pretraining model.
